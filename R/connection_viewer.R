@@ -5,7 +5,7 @@
     Help = list(
         icon = file.path(icons, "help.png"),
         callback = function() {
-          utils::browseURL("https://go.documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=v_010&docsetId=caspg3r&docsetTarget=titlepage.htm&locale=en")
+          utils::browseURL("https://go.documentation.sas.com/doc/en/pgmsascdc/default/caspg3r/titlepage.htm")
         }
     )
   )
